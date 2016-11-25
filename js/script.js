@@ -95,7 +95,7 @@ const containerElt = document.createElement("div");
 
         }
 
-        codeRGBA = '"rgb( ' + tableauCouleur[0] + ', ' + tableauCouleur[1] + ', ' + tableauCouleur[2] +' )";';
+        codeRGBA = 'rgb( ' + tableauCouleur[0] + ', ' + tableauCouleur[1] + ', ' + tableauCouleur[2] +' )';
 
         return codeRGBA;
 
